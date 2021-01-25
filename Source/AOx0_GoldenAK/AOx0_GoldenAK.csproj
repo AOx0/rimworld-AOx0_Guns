@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <OutputPath>../../Assemblies</OutputPath>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <OutputPath>../../Assemblies</OutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Assembly-CSharp, Version=1.2.7558.21255, Culture=neutral, PublicKeyToken=null">
+        <HintPath>../../../Applications/RimWorld.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+      <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>../../../Applications/RimWorld.app/Contents/Resources/Data/Managed/UnityEngine.dll</HintPath>
+        <Private>False</Private>
+      </Reference>
+    </ItemGroup>
+
+</Project>

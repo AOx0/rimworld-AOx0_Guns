@@ -1,0 +1,8 @@
+/Users/alejandro/Golden AK/Assemblies/net472/AOx0_GoldenAK.dll
+/Users/alejandro/Golden AK/Assemblies/net472/AOx0_GoldenAK.pdb
+/Users/alejandro/Golden AK/Source/AOx0_GoldenAK/obj/Release/net472/AOx0_GoldenAK.csprojAssemblyReference.cache
+/Users/alejandro/Golden AK/Source/AOx0_GoldenAK/obj/Release/net472/AOx0_GoldenAK.AssemblyInfoInputs.cache
+/Users/alejandro/Golden AK/Source/AOx0_GoldenAK/obj/Release/net472/AOx0_GoldenAK.AssemblyInfo.cs
+/Users/alejandro/Golden AK/Source/AOx0_GoldenAK/obj/Release/net472/AOx0_GoldenAK.csproj.CoreCompileInputs.cache
+/Users/alejandro/Golden AK/Source/AOx0_GoldenAK/obj/Release/net472/AOx0_GoldenAK.dll
+/Users/alejandro/Golden AK/Source/AOx0_GoldenAK/obj/Release/net472/AOx0_GoldenAK.pdb

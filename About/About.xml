@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Golden AK</name>
+	<author>AOx0</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>aox0.goldenak</packageId>
+	<description>Golden AK-47 by AOx0</description>
+	<!-- 
+	<modDependencies>
+		<li>
+			<packageId>CETeam.CombatExtended</packageId>
+			<displayName>Combat Extended</displayName>
+			<steamWorkshopUrl>idk</steamWorkshopUrl>
+			<downloadUrl>idk</downloadUrl>
+		</li>
+	</modDependencies>
+	-->
+</ModMetaData>

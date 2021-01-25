@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOx0_GoldenAK", "AOx0_GoldenAK.csproj", "{B7291CE5-D095-4441-A71E-D0FD568A548F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7291CE5-D095-4441-A71E-D0FD568A548F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7291CE5-D095-4441-A71E-D0FD568A548F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7291CE5-D095-4441-A71E-D0FD568A548F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7291CE5-D095-4441-A71E-D0FD568A548F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
