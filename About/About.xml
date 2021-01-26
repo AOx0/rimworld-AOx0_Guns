@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Golden AK</name>
+	<name>AOx0 Guns</name>
 	<author>AOx0</author>
 	<supportedVersions>
 		<li>1.1</li>
 		<li>1.2</li>
 	</supportedVersions>
-	<packageId>aox0.goldenak</packageId>
-	<description>Golden AK-47 by AOx0</description>
-	<!-- 
+	<packageId>aox0.opguns</packageId>
+	<description>
+Kind of overpowerd guns made by AOx0. Needs Combat Extended to work
+		
+Includes:
+	- Golden AK-47
+	- AK-47 SpecOps
+
+v1.0.0~a2
+	</description>
 	<modDependencies>
 		<li>
 			<packageId>CETeam.CombatExtended</packageId>
@@ -17,5 +24,8 @@
 			<downloadUrl>idk</downloadUrl>
 		</li>
 	</modDependencies>
-	-->
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>CETeam.CombatExtended</li>
+	</loadAfter>
 </ModMetaData>

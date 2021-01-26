@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+  <!-- Golden AK-47 -->
   <ThingDef ParentName="BaseHumanMakeableGun">
     <defName>Gun_aox0_GoldenAK</defName>
     <label>Golden AK-47</label>
@@ -18,6 +18,7 @@
     </recipeMaker>
     <thingSetMakerTags><li>RewardStandardQualitySuper</li></thingSetMakerTags>
     <statBases>
+      <MarketValue>3500</MarketValue>
       <WorkToMake>400</WorkToMake>
       <Mass>1.5</Mass>
       <AccuracyTouch>1.0</AccuracyTouch>
@@ -79,5 +80,4 @@
       <speed>85</speed>
     </projectile>
   </ThingDef>
-  
 </Defs>
